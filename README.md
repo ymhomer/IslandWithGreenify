@@ -18,15 +18,15 @@
 
     一般手机启动的方式是设置 > 关于手机 > 内部编号（或者是基代版本）点击7下左右。
 
-    ![Oasisfeng%20-%20Island%20&%20Greenify%200190eb2dd4f44652bc0ba9d32981ce6d/Untitled%201.png](Oasisfeng%20-%20Island%20&%20Greenify%200190eb2dd4f44652bc0ba9d32981ce6d/Untitled%201.png)
+    ![../main/Image/Untitled%201.png](../main/Image/Untitled%201.png)
 
 - 启动了开发者模式请打开USB调试（USB Debugging）
 
-    ![Oasisfeng%20-%20Island%20&%20Greenify%200190eb2dd4f44652bc0ba9d32981ce6d/Untitled%202.png](Oasisfeng%20-%20Island%20&%20Greenify%200190eb2dd4f44652bc0ba9d32981ce6d/Untitled%202.png)
+    ![../main/Image/Untitled%202.png](../main/Image/Untitled%202.png)
 
 ## 2. 安装Island app (炼妖壶)
 
-![Oasisfeng%20-%20Island%20&%20Greenify%200190eb2dd4f44652bc0ba9d32981ce6d/Untitled%203.png](Oasisfeng%20-%20Island%20&%20Greenify%200190eb2dd4f44652bc0ba9d32981ce6d/Untitled%203.png)
+![../main/Image/Untitled%203.png](../main/Image/Untitled%203.png)
 
 ### 2.1 下载及安装
 
@@ -34,7 +34,7 @@
     - [酷安](https://www.coolapk.com/apk/com.oasisfeng.island)网址
 - 安装Island并按照里面步骤创造工作环境（Work profile）
 
-    ![Oasisfeng%20-%20Island%20&%20Greenify%200190eb2dd4f44652bc0ba9d32981ce6d/Untitled%204.png](Oasisfeng%20-%20Island%20&%20Greenify%200190eb2dd4f44652bc0ba9d32981ce6d/Untitled%204.png)
+    ![../main/Image/Untitled%204.png](../main/Image/Untitled%204.png)
 
 - 安装Island过后最好直接启动上帝模式（操作方法在下面），因为如果工作环境加入了用户账号很有可能上帝模式会启动失败
 

@@ -14,7 +14,7 @@
     - 如果不能访问可以试试[这里](https://blog.csdn.net/weixin_43927138/article/details/90477966)。
 - 手机要启动开发者模式（Developer Options）
 
-    ![../Image/Untitled.png](../Image/Untitled.png)
+    ![../main/Image/Untitled.png](../main/Image/Untitled.png)
 
     一般手机启动的方式是设置 > 关于手机 > 内部编号（或者是基代版本）点击7下左右。
 

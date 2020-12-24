@@ -14,7 +14,7 @@
     - 如果不能访问可以试试[这里](https://blog.csdn.net/weixin_43927138/article/details/90477966)。
 - 手机要启动开发者模式（Developer Options）
 
-    ![Oasisfeng%20-%20Island%20&%20Greenify%200190eb2dd4f44652bc0ba9d32981ce6d/Untitled.png](Oasisfeng%20-%20Island%20&%20Greenify%200190eb2dd4f44652bc0ba9d32981ce6d/Untitled.png)
+    ![../Image/Untitled.png](Oasisfeng%20-%20Island%20&%20Greenify%200190eb2dd4f44652bc0ba9d32981ce6d/Untitled.png)
 
     一般手机启动的方式是设置 > 关于手机 > 内部编号（或者是基代版本）点击7下左右。
 

@@ -65,9 +65,9 @@
     ```
 
 - ##如果上帝模式启动失败请输入以下指令
-    - dpm set-profile-owner com.oasisfeng.island/.IslandDeviceAdminReceiver 0
+    - adb -d shell settings put global device_provisioned 0
     - 重新输入上帝模式的指令（如 adb -d shell dpm set-device-owner com.oasisfeng.island/.IslandDeviceAdminReceiver）
-    - settings put global device_provisioned 1 （最后这一步很重要，必须输入，否则接受不到信息通知）
+    - adb -d shell settings put global device_provisioned 1 （最后这一步很重要，必须输入，否则接受不到信息通知）
 
 ### 如果要卸载Island（请关闭上帝模式才卸载）
 
